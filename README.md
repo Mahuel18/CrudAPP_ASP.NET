@@ -1,2 +1,2 @@
 # TareaASPInfotep
-Proyecto MVC en ASP NET como tarea para infotep
+MVC Project using ASP.NET C# and MSSQL
